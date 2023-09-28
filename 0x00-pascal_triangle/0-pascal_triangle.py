@@ -4,7 +4,6 @@
 '''
 
 
-
 def pascal_triangle(n):
     ''' Creates a list of lists of integers representing
     the pascals triangle of a given integer
